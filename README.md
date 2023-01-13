@@ -4,7 +4,7 @@
     <h3 align="center">A passionate web frontend developer from Peru. I like a lot about web development and I hope I can find a job soon</h3>
 </div>
 
-<img src="https://media.tenor.com/lplqzKb-4iUAAAAd/you-should-be-studying-cute-cat.gif" width="150" height="150" alt="You Should Be Studying Cute Cat GIF - You Should Be Studying Cute Cat Studying GIFs"  style="max-width: 683px;">
+<img src="https://media.tenor.com/lplqzKb-4iUAAAAd/you-should-be-studying-cute-cat.gif" width="400" height="450" alt="You Should Be Studying Cute Cat GIF - You Should Be Studying Cute Cat Studying GIFs"  style="max-width: 683px;">
 
 ---
 
@@ -31,7 +31,7 @@
 - 🌱 I’m currently learning **React.js and Express**
 
 - 💬 And a little **C++, Java, Python(Flask)**
-- 
+
 - 📫 How to reach me **john.41258789@gmail.com**
 
 - ⚡ Fun fact: When I learn a new tool or language I get so excited that I can't stop studying
