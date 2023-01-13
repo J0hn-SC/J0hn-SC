@@ -4,7 +4,7 @@
     <h3 align="center">A passionate web frontend developer from Peru. I like a lot about web development and I hope I can find a job soon</h3>
 </div>
 
-<img src="https://media.tenor.com/lplqzKb-4iUAAAAd/you-should-be-studying-cute-cat.gif" width="683" height="853.75" alt="You Should Be Studying Cute Cat GIF - You Should Be Studying Cute Cat Studying GIFs" width="100" height="100" style="max-width: 683px;">
+<img src="https://media.tenor.com/lplqzKb-4iUAAAAd/you-should-be-studying-cute-cat.gif" width="150" height="150" alt="You Should Be Studying Cute Cat GIF - You Should Be Studying Cute Cat Studying GIFs"  style="max-width: 683px;">
 
 ---
 
@@ -24,7 +24,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
