@@ -1,5 +1,5 @@
- <div class="tenor-gif-embed" data-postid="23546035" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/you-should-be-studying-cute-cat-studying-gif-23546035">You Should Be Studying Cute Cat GIF</a>from <a href="https://tenor.com/search/you+should+be+studying-gifs">You Should Be Studying GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
- 
+<img src="https://media.tenor.com/lplqzKb-4iUAAAAd/you-should-be-studying-cute-cat.gif" width="683" height="853.75" alt="You Should Be Studying Cute Cat GIF - You Should Be Studying Cute Cat Studying GIFs" style="max-width: 683px;">
+
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm J0hn-SC</h1>
     <h3 align="center">A passionate web frontend developer from Peru. I like a lot about web development and I hope I can find a job soon</h3>
