@@ -1,6 +1,6 @@
+ <div class="tenor-gif-embed" data-postid="23546035" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/you-should-be-studying-cute-cat-studying-gif-23546035">You Should Be Studying Cute Cat GIF</a>from <a href="https://tenor.com/search/you+should+be+studying-gifs">You Should Be Studying GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ 
 <div id="header" align="center">
-    <div class="tenor-gif-embed" data-postid="23546035" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/you-should-be-studying-cute-cat-studying-gif-23546035">You Should Be Studying Cute Cat GIF</a>from <a href="https://tenor.com/search/you+should+be+studying-gifs">You Should Be Studying GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-    
     <h1 align="center">Hi 👋, I'm J0hn-SC</h1>
     <h3 align="center">A passionate web frontend developer from Peru. I like a lot about web development and I hope I can find a job soon</h3>
 </div>
@@ -14,7 +14,6 @@
 - 📝 I know:
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
