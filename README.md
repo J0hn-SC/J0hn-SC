@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm J0hn-SC</h1>
-    <h3 align="center">A passionate web frontend developer from Peru. I like a lot about web development and I hope I can find a job soon</h3>
+    <h3 align="center">A passionate software developer from Peru. I like a lot about web development and I hope I can find a new job</h3>
 </div>
 
 <img src="https://media.tenor.com/lplqzKb-4iUAAAAd/you-should-be-studying-cute-cat.gif" width="400" height="450" alt="You Should Be Studying Cute Cat GIF - You Should Be Studying Cute Cat Studying GIFs"  style="max-width: 683px;">
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me :
 
-- 🔭 I’m currently studying at San Agustin National University
+- 🔭 I have studied at San Agustin National University
 
 - 📝 I know ...
 
@@ -30,9 +30,9 @@
       </div>
 </div>
 
-- 🌱 I’m currently learning **React.js and Express**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 And a little **C++, Java, Python(Flask)**
+- 💬 I have worked in two companies previously as Full Stack Developer and participated of many projects ** (you could see some of them in this repo)**
 
 - 📫 How to reach me **john.41258789@gmail.com**
 
